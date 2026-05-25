@@ -1,0 +1,15 @@
+# This tells Git to ignore all the massive 20GB auto-generated Unity folders!
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Ignore visual studio/code files
+.vs/
+.vscode/
+*.csproj
+*.sln
